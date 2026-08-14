@@ -1,7 +1,35 @@
 {
-  "data_execucao": "14/08/2026 10:15",
+  "data_execucao": "14/08/2026 10:42",
   "youtube": [],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "Feeling tired or low on energy? 🍋✨ Try this natural drink made with lemon and ginger — two powerful ingredients that help you feel refreshed, active, and full of vitality again. 💪 This simple mix can ",
+      "canal": "naturalspfood",
+      "views": 378800,
+      "likes": 7998,
+      "comentarios": 366,
+      "data": "2025-11-09",
+      "dias_desde_publicacao": 278,
+      "url": "https://www.tiktok.com/@naturalspfood/video/7570871470482640183",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/o44nI9SVACzRhADhDAgFaE04EfHYpMECxA9fRA~tplv-tiktokx-origin.image?dr=9636&x-expires=1786885200&x-signature=REIP%2FjaDRmlOESGCJvuu0E3pkjg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "natural recipe",
+      "analise": ""
+    },
+    {
+      "titulo": "It’s very important for men. #kegel #kegelexercise #kegelworkout #pelvichealth #homeworkout ",
+      "canal": "latteboy868",
+      "views": 336100,
+      "likes": 8776,
+      "comentarios": 58,
+      "data": "2026-07-23",
+      "dias_desde_publicacao": 22,
+      "url": "https://www.tiktok.com/@latteboy868/video/7665712722889149727",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oAIB1MB3BQWQCAk5ZyciY0IAipqTiDVENAfiIF~tplv-tiktokx-origin.image?dr=9636&x-expires=1786885200&x-signature=Sc%2FuhUGTUxKURujzm9kwFsXI9xc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "kegel",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "",
@@ -454,13 +482,31 @@
   ],
   "trends": [
     {
-      "keyword": "ozempic",
+      "keyword": "weight loss",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 21,
+      "score_atual": 35,
       "score_maximo": 100,
-      "score_minimo": 16,
-      "crescimento_pct": 10.5
+      "score_minimo": 27,
+      "crescimento_pct": 2.9
+    },
+    {
+      "keyword": "mounjaro",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 50,
+      "score_maximo": 100,
+      "score_minimo": 30,
+      "crescimento_pct": 8.7
+    },
+    {
+      "keyword": "belly fat",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 29,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": 7.4
     }
   ],
   "analise": {
@@ -468,6 +514,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
