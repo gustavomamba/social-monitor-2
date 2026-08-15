@@ -1,5 +1,5 @@
 {
-  "data_execucao": "15/08/2026 11:52",
+  "data_execucao": "15/08/2026 12:10",
   "youtube": [
     {
       "titulo": "Why Kushboo Suddenly Lost Weight 😳",
@@ -28,7 +28,34 @@
       "analise": ""
     }
   ],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "#homeworkout #dailycardio #bellyfat #fullbodyworkout #workoutroutine ",
+      "canal": "daily.home.fit",
+      "views": 121900,
+      "likes": 3782,
+      "comentarios": 21,
+      "data": "2026-08-14",
+      "dias_desde_publicacao": 1,
+      "url": "https://www.tiktok.com/@daily.home.fit/video/7673705726283402509",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ooEj9kQ81DaqALDEEAfuFNAkArIIsAkJHnfUeI~tplv-tiktokx-origin.image?dr=9636&x-expires=1786978800&x-signature=AxIHdNca%2FIbXY5CBDQVhZgOZbec%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "belly fat",
+      "analise": ""
+    },
+    {
+      "titulo": "Feeling my best !!\n#fitness #fitnessjourney #heath",
+      "canal": "glp1selenaa",
+      "views": 60600,
+      "likes": 2979,
+      "comentarios": 62,
+      "data": "2026-07-22",
+      "dias_desde_publicacao": 24,
+      "url": "https://www.tiktok.com/@glp1selenaa/video/7665163485633973534",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oEUY3A0AgBHAIavApQfADII4eaJGJTRggEQmef~tplv-tiktokx-origin.image?dr=9636&x-expires=1786978800&x-signature=GM5OIn6oQEmM1Srtb2hvtINvnJg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "drop pounds",
+      "analise": ""
+    }
+  ],
   "facebook": [
     {
       "page": "Pompeian",
@@ -747,31 +774,13 @@
   ],
   "trends": [
     {
-      "keyword": "weight loss",
+      "keyword": "GLP-1",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 35,
-      "score_maximo": 100,
-      "score_minimo": 27,
-      "crescimento_pct": 2.9
-    },
-    {
-      "keyword": "mounjaro",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 50,
-      "score_maximo": 100,
-      "score_minimo": 30,
-      "crescimento_pct": 8.7
-    },
-    {
-      "keyword": "belly fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 29,
+      "score_atual": 89,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 7.4
+      "crescimento_pct": 242.3
     }
   ],
   "analise": {
@@ -779,6 +788,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
