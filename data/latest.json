@@ -1,7 +1,22 @@
 {
-  "data_execucao": "16/08/2026 02:39",
+  "data_execucao": "16/08/2026 02:53",
   "youtube": [],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "Pourquoi certains hommes éjaculent rapidement?\n\n#ejaculationprecoce #santemasculine ",
+      "canal": "pharmacie.k.kourou",
+      "views": 90800,
+      "likes": 3140,
+      "comentarios": 49,
+      "data": "2026-08-13",
+      "dias_desde_publicacao": 3,
+      "url": "https://www.tiktok.com/@pharmacie.k.kourou/video/7673548950783380743",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ow7BeGfEXAeCpdww1IFrGYAiLYIOFQRdDmhe79~tplv-tiktokx-origin.image?dr=9636&x-expires=1787029200&x-signature=Wvwd5Y76yR%2BLOooXXuiw3DcMEQA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "ejaculação precoce",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "Blood Pressure Support Community",
@@ -149,10 +164,10 @@
       "keyword": "GLP-1",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 89,
+      "score_atual": 100,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 242.3
+      "crescimento_pct": 127.3
     }
   ],
   "analise": {
@@ -160,6 +175,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
