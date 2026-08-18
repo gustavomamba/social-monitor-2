@@ -1,5 +1,5 @@
 {
-  "data_execucao": "18/08/2026 02:57",
+  "data_execucao": "18/08/2026 03:03",
   "youtube": [
     {
       "titulo": "celebrities before and after ozempic injections Part 2",
@@ -28,7 +28,21 @@
       "analise": ""
     }
   ],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "What I wish someone told me when I started my weight loss journey 🫂🤍",
+      "canal": "growwithjo",
+      "views": 81300,
+      "likes": 7378,
+      "comentarios": 87,
+      "data": "2026-08-07",
+      "dias_desde_publicacao": 11,
+      "url": "https://www.tiktok.com/@growwithjo/video/7671103650692910356",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o4AMenfsGgHEwUahAbLAoAjPqEexUADQIyARI6~tplv-tiktokx-origin.image?dr=9636&x-expires=1787202000&x-signature=49IpkGDPToSKme1LIZdqIxJu7M4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "lose weight",
+      "analise": ""
+    }
+  ],
   "facebook": [
     {
       "page": "Noah Jenson with The Merman",
@@ -621,6 +635,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
