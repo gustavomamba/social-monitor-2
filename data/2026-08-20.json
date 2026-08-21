@@ -1,0 +1,23 @@
+{
+  "data_execucao": "20/08/2026 10:43",
+  "youtube": [],
+  "tiktok": [],
+  "facebook": [],
+  "trends": [
+    {
+      "keyword": "GLP-1",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 100,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": 127.3
+    }
+  ],
+  "analise": {
+    "tendencias": "",
+    "mecanismos_em_alta": "",
+    "avatares_em_alta": "",
+    "recomendacoes": ""
+  }
+}
