@@ -289,6 +289,7 @@ if __name__ == '__main__':
         else:
             print(f'  Git commit warning: {r.stderr.strip()}')
         _sub.run(['git', 'push'], check=True, capture_output=True, text=True)
+        _sub.run(['git', 'push', 'v2', 'main'], check=False, capture_output=True, text=True)
         print('  Git push: OK')
     except _sub.CalledProcessError as e:
         print(f'  Git error: {e.stderr}')
