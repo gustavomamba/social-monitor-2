@@ -1,0 +1,32 @@
+{
+  "data_execucao": "23/06/2026 03:29",
+  "youtube": [],
+  "tiktok": [],
+  "facebook": [],
+  "trends": [
+    {
+      "keyword": "mounjaro",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 73,
+      "score_maximo": 100,
+      "score_minimo": 40,
+      "crescimento_pct": 5.8
+    },
+    {
+      "keyword": "belly fat",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 93,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": 17.7
+    }
+  ],
+  "analise": {
+    "tendencias": "",
+    "mecanismos_em_alta": "",
+    "avatares_em_alta": "",
+    "recomendacoes": ""
+  }
+}

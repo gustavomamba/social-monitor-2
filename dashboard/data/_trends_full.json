@@ -1,0 +1,101 @@
+[
+  {
+    "keyword": "weight loss",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 56,
+    "score_maximo": 100,
+    "score_minimo": 46,
+    "crescimento_pct": 0.0
+  },
+  {
+    "keyword": "ozempic",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 31,
+    "score_maximo": 100,
+    "score_minimo": 25,
+    "crescimento_pct": 3.3
+  },
+  {
+    "keyword": "mounjaro",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 40,
+    "score_maximo": 100,
+    "score_minimo": 35,
+    "crescimento_pct": -2.4
+  },
+  {
+    "keyword": "belly fat",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 48,
+    "score_maximo": 100,
+    "score_minimo": 0,
+    "crescimento_pct": 33.3
+  },
+  {
+    "keyword": "GLP-1",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 32,
+    "score_maximo": 100,
+    "score_minimo": 0,
+    "crescimento_pct": -28.9
+  },
+  {
+    "keyword": "natural ozempic",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 0,
+    "score_maximo": 100,
+    "score_minimo": 0,
+    "crescimento_pct": -100.0
+  },
+  {
+    "keyword": "salt trick weight loss",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 0,
+    "score_maximo": 100,
+    "score_minimo": 0,
+    "crescimento_pct": -100.0
+  },
+  {
+    "keyword": "jelly trick",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 0,
+    "score_maximo": 100,
+    "score_minimo": 0,
+    "crescimento_pct": -100.0
+  },
+  {
+    "keyword": "night ritual weight loss",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 0,
+    "score_maximo": 100,
+    "score_minimo": 0,
+    "crescimento_pct": -100.0
+  },
+  {
+    "keyword": "natural mounjaro",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 0,
+    "score_maximo": 100,
+    "score_minimo": 0,
+    "crescimento_pct": -100.0
+  },
+  {
+    "keyword": "lose weight fast",
+    "geo": "GB",
+    "timeframe": "now 7-d",
+    "score_atual": 23,
+    "score_maximo": 100,
+    "score_minimo": 0,
+    "crescimento_pct": 0.0
+  }
+]

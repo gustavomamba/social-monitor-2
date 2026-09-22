@@ -1,0 +1,38 @@
+{
+  "data_execucao": "22/08/2026 03:51",
+  "youtube": [],
+  "tiktok": [],
+  "facebook": [
+    {
+      "page": "Lillie Eats and Tells with Lumineux Health",
+      "texto": "If your whitening strips cause sensitivity, they're damaging your enamel. And enamel doesn't grow back. Lumineux Whitening Strips are clinically proven to whiten without peroxide by using Dead Sea salt, coconut oil, and lemon peel oil instead. Same results. None of the damage. Your future self will thank you. 30 Minutes. No Sensitivity. Whiter Teeth.",
+      "data_inicio": "Aug 11, 2026",
+      "dias_ativo": 11,
+      "tipo_media": "VIDEO",
+      "url": "https://www.facebook.com/ads/library/?id=3086860754842907",
+      "pais": "US",
+      "keyword": "salt trick",
+      "avatar": "médico/autoridade",
+      "analise": "",
+      "thumbnail": "",
+      "analise_criativa": {}
+    }
+  ],
+  "trends": [
+    {
+      "keyword": "GLP-1",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 100,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": 127.3
+    }
+  ],
+  "analise": {
+    "tendencias": "",
+    "mecanismos_em_alta": "",
+    "avatares_em_alta": "",
+    "recomendacoes": ""
+  }
+}
