@@ -36,7 +36,7 @@ import dedup
 APIFY_TOKEN       = os.environ.get('APIFY_TOKEN', '')
 ACTOR_ID          = 'clockworks~tiktok-scraper'
 MIN_VIEWS         = 80_000
-KW_MAX_RESULTS    = 5    # videos per keyword
+KW_MAX_RESULTS    = 10   # videos per keyword
 PROFILE_MAX       = 50   # videos per profile (filter by views after)
 TODAY             = date.today()
 NICHO             = 'male_health'
@@ -63,6 +63,7 @@ PROFILES = [
     'https://www.tiktok.com/@dr.kegel.app',
     'https://www.tiktok.com/@kegelmenapp',
     'https://www.tiktok.com/@latteboy868',
+    'https://www.tiktok.com/@saludmasculinametodo',
 ]
 
 
