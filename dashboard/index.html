@@ -932,6 +932,9 @@
   // ── Base path for data files (works from dashboard/ subdir and root) ──
   var DATA_PATH = (function () {
     var p = window.location.pathname;
+    var h = window.location.hostname;
+    // Cloudflare Workers/Pages: build output is dashboard/, data/ is at root
+    if (h.indexOf('workers.dev') !== -1 || h.indexOf('pages.dev') !== -1) return '../data/';
     // If served from .../dashboard/index.html → go up one level
     if (p.indexOf('/dashboard/') !== -1) return '../data/';
     return 'data/';
