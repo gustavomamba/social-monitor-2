@@ -1,7 +1,63 @@
 {
-  "data_execucao": "23/09/2026 10:52",
+  "data_execucao": "23/09/2026 11:12",
   "youtube": [],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "Mix warm water with 3 tbsp bovine gelatin.\nAdd milk, 2 tbsp chia seeds, and blueberries.\nRefrigerate for 1 hour.\n\nCook prunes in water for 20 minutes to make a syrup.\nPour on top and enjoy.\n#recipe #h",
+      "canal": "themarianasmith",
+      "views": 1100000,
+      "likes": 35000,
+      "comentarios": 246,
+      "data": "2026-02-04",
+      "dias_desde_publicacao": 231,
+      "url": "https://www.tiktok.com/@themarianasmith/video/7603149979133267213",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oMEACI41q9BQPACk0AAjBEa10KDcVgWiKSiYP~tplv-tiktokx-origin.image?dr=9636&x-expires=1790341200&x-signature=sXOPcMy3XwFI0PncBiJiSR5XArM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "natural recipe",
+      "analise": ""
+    },
+    {
+      "titulo": "Class in session 💪 \n\nHaving a strong pelvic floor is important for normal bladder, bowel and intimate function. \n\nIf you experience incontinence, prolapse, heaviness or pain I highly recommend seeing ",
+      "canal": "womenshealthwithheidi",
+      "views": 973900,
+      "likes": 90500,
+      "comentarios": 1609,
+      "data": "2025-12-07",
+      "dias_desde_publicacao": 290,
+      "url": "https://www.tiktok.com/@womenshealthwithheidi/video/7580946095132478728",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/ocABTBADkwimKI3xEuA3XuBSa0Iv5YrlT7iVT~tplv-tiktokx-origin.image?dr=9636&x-expires=1790344800&x-signature=N%2Fe2NLK3zczs7j5hY3KklxeKaco%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "kegel",
+      "analise": "",
+      "nicho": "male_health"
+    },
+    {
+      "titulo": "This is the #1 most dangerous sign of low testosterone! Have you ever experienced it?\n\nVisit the link in my bio to download my free daily routine checklist that helps me feel 18 at age 60!\n\n#drericber",
+      "canal": "drbergofficial",
+      "views": 547000,
+      "likes": 28300,
+      "comentarios": 65,
+      "data": "2026-02-09",
+      "dias_desde_publicacao": 226,
+      "url": "https://www.tiktok.com/@drbergofficial/video/7603849467233635615",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oQCAZlvvrMlYEIAYAAEAiG7pyAN0a10TRBc7i~tplv-tiktokx-origin.image?dr=9636&x-expires=1790344800&x-signature=cKIryO0hOFy3VKVkMgA4ynx07fk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "low testosterone",
+      "analise": "",
+      "nicho": "male_health"
+    },
+    {
+      "titulo": "Alguma dúvida?Mande mensagem!#ejaculacaoprecoce #urologia #saudemasculina #saudedohomem #andrologia",
+      "canal": "drluisnovaes",
+      "views": 85300,
+      "likes": 1364,
+      "comentarios": 34,
+      "data": "2023-01-03",
+      "dias_desde_publicacao": 1359,
+      "url": "https://www.tiktok.com/@drluisnovaes/video/7183840780807605509",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-p-0068/o4QxAyd6hK8f3uGAroqE2CauK3gNzgAABtlItk~tplv-tiktokx-origin.image?dr=9636&x-expires=1790344800&x-signature=eOjzstZgX7ZWsPxJRiRgSgtgGl4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "ejaculação precoce",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "",
@@ -678,13 +734,13 @@
   ],
   "trends": [
     {
-      "keyword": "GLP-1",
+      "keyword": "lose weight fast",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 100,
+      "score_atual": 25,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 127.3
+      "crescimento_pct": 66.7
     }
   ],
   "analise": {
@@ -692,6 +748,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
