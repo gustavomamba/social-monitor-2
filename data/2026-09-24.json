@@ -1,5 +1,5 @@
 {
-  "data_execucao": "24/09/2026 03:43",
+  "data_execucao": "24/09/2026 04:06",
   "youtube": [],
   "tiktok": [],
   "facebook": [
@@ -104,13 +104,13 @@
   ],
   "trends": [
     {
-      "keyword": "lose weight fast",
+      "keyword": "burn fat",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 25,
+      "score_atual": 26,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 66.7
+      "crescimento_pct": 13.0
     }
   ],
   "analise": {
@@ -118,6 +118,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
