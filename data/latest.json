@@ -1,7 +1,34 @@
 {
-  "data_execucao": "28/09/2026 10:38",
+  "data_execucao": "28/09/2026 10:54",
   "youtube": [],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "No single food gives you a six-pack.\n\nAnd no single food creates belly fat.\n\nBut some foods make fat loss much harder.\n\nWhy?\n\nBecause they’re incredibly calorie dense.\n\nA few spoonfuls of peanut butte",
+      "canal": "cesare_shapable",
+      "views": 6200000,
+      "likes": 276800,
+      "comentarios": 1869,
+      "data": "2026-07-23",
+      "dias_desde_publicacao": 67,
+      "url": "https://www.tiktok.com/@cesare_shapable/video/7665673751966649602",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4AiKoABihB6a4BEsDPADxBAdYEIHmz80ptbB~tplv-tiktokx-origin.image?dr=10395&x-expires=1790773200&x-signature=gKgwLjWi1z1OOBHHarW0t0MXYSQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "keyword": "belly fat",
+      "analise": ""
+    },
+    {
+      "titulo": "That jiggle!! So CREAMY, is it better than mama? 😉",
+      "canal": "tiffycooks",
+      "views": 1200000,
+      "likes": 58700,
+      "comentarios": 341,
+      "data": "2021-05-14",
+      "dias_desde_publicacao": 1963,
+      "url": "https://www.tiktok.com/@tiffycooks/video/6962208496632745221",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-p-0068/3627eb4f471b490387c7b5e3bbf55c34~tplv-tiktokx-origin.image?dr=10395&x-expires=1790773200&x-signature=LUgzehCZmp82ojA2tkvZ7Swm9SU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "keyword": "pudding recipe",
+      "analise": ""
+    }
+  ],
   "facebook": [
     {
       "page": "Renee Donnelly",
@@ -272,13 +299,13 @@
   ],
   "trends": [
     {
-      "keyword": "lose weight fast",
+      "keyword": "burn fat",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 19,
+      "score_atual": 9,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 1800.0
+      "crescimento_pct": 800.0
     }
   ],
   "analise": {
@@ -286,6 +313,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
