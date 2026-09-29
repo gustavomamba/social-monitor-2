@@ -1,7 +1,36 @@
 {
-  "data_execucao": "29/09/2026 02:39",
+  "data_execucao": "29/09/2026 02:53",
   "youtube": [],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "Essa performance do GENER8ION & Yung Lean no VMAs 2026 🤯 #STEALTHELOOK #vmas #mtv #gener8ion #younglean",
+      "canal": "stealthelook",
+      "views": 3800000,
+      "likes": 677200,
+      "comentarios": 2446,
+      "data": "2026-09-27",
+      "dias_desde_publicacao": 2,
+      "url": "https://www.tiktok.com/@stealthelook/video/7690411571687787783",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oEAAMo1WA1K5i5JBiOAC6EIB5wzKXAFB8Of7H1~tplv-tiktokx-origin.image?dr=9636&x-expires=1790830800&x-signature=Z%2Fpc3HGdoHQgAePTKOtak1fMyEs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "male performance",
+      "analise": "",
+      "nicho": "male_health"
+    },
+    {
+      "titulo": "KEGEL EXERCISES EVERY WOMAN SHOULD DO 🩷 Read the benefits on my board 🙌🏻\n\n#pelvicfloorexercises #kegel #tipsforgirls #core #50pluswomen ",
+      "canal": "nurnurfit",
+      "views": 665600,
+      "likes": 25100,
+      "comentarios": 48,
+      "data": "2026-09-23",
+      "dias_desde_publicacao": 6,
+      "url": "https://www.tiktok.com/@nurnurfit/video/7688754459043745056",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-euttp/oI8nEPCqDQAIVCR3AipVfAvAzqkBsi3ifmN8XE~tplv-tiktokx-origin.image?dr=9636&x-expires=1790830800&x-signature=p5vpKkTP9ivFfAxUYbrcMnMvmsg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "kegel exercises",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "Everything Envy",
@@ -258,13 +287,13 @@
   ],
   "trends": [
     {
-      "keyword": "burn fat",
+      "keyword": "ozempic",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 9,
+      "score_atual": 56,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 800.0
+      "crescimento_pct": 5500.0
     }
   ],
   "analise": {
@@ -272,6 +301,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
