@@ -1,5 +1,5 @@
 {
-  "data_execucao": "02/10/2026 03:13",
+  "data_execucao": "02/10/2026 03:20",
   "youtube": [
     {
       "titulo": "125KG TO 75KG - MY WEIGHTLOSS JOURNEY.",
@@ -15,7 +15,21 @@
       "analise": ""
     }
   ],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "HOW TO BURN FAT #gymtok #fyp #fatburning #aerobics",
+      "canal": "garrett.wk0",
+      "views": 1600000,
+      "likes": 154400,
+      "comentarios": 1221,
+      "data": "2026-09-07",
+      "dias_desde_publicacao": 25,
+      "url": "https://www.tiktok.com/@garrett.wk0/video/7682618898201464078",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oAHMXCuFEIfofEjeQErUQ8gHkJPYVQAOVHZjA7~tplv-tiktokx-origin.image?dr=9636&x-expires=1791093600&x-signature=Ljtrq6knk6Z4TAg7duEGYK1j2Q8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "burn fat",
+      "analise": ""
+    }
+  ],
   "facebook": [
     {
       "page": "TikTok - US",
@@ -174,6 +188,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
