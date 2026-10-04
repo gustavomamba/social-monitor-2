@@ -1,5 +1,5 @@
 {
-  "data_execucao": "04/10/2026 12:56",
+  "data_execucao": "04/10/2026 13:15",
   "youtube": [
     {
       "titulo": "She Wanted to Quit… | 68kg Weight Loss Transformation",
@@ -15,7 +15,48 @@
       "analise": ""
     }
   ],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "Full Body Workout.\nJust press play and move with us @Be Simple - quick, sweaty, and perfect for burning fat while sculpting full body\n\n#homeworkout #workoutathome\n#gluteworkout #legday #lowerbodyworko",
+      "canal": "arielyu.fit",
+      "views": 4700000,
+      "likes": 176000,
+      "comentarios": 505,
+      "data": "2026-08-02",
+      "dias_desde_publicacao": 63,
+      "url": "https://www.tiktok.com/@arielyu.fit/video/7669459265702137102",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/ooLhHReGkQ3ejbUICyMMG3ZseEWAXIlALAAjgA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791302400&x-signature=lvk6zzayzEdA5TvLBFaqQewUTQc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "burn fat",
+      "analise": ""
+    },
+    {
+      "titulo": "Hope this helps! ",
+      "canal": "brownsigmamale",
+      "views": 898700,
+      "likes": 90500,
+      "comentarios": 184,
+      "data": "2026-07-21",
+      "dias_desde_publicacao": 75,
+      "url": "https://www.tiktok.com/@brownsigmamale/video/7665025980200783126",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-no1a-p-0037-no/oURC1FysAg7QHDIq45kFE1IXIBLf3g3fpgDpEl~tplv-tiktokx-origin.image?dr=9636&x-expires=1791302400&x-signature=sauJ5R1z3WjUQJ8bMD%2Fsg7lyDbY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "lose weight",
+      "analise": ""
+    },
+    {
+      "titulo": "#INFO #utilidadepublica #foryoupage #fyp",
+      "canal": "especialistax_",
+      "views": 284900,
+      "likes": 23800,
+      "comentarios": 228,
+      "data": "2021-04-05",
+      "dias_desde_publicacao": 2008,
+      "url": "https://www.tiktok.com/@especialistax_/video/6947804996758932741",
+      "thumbnail": "https://p16-common-sign.tiktokcdn.com/tos-maliva-p-0068/5a9c5ffa70bf45959e3aa59738cde6a3~tplv-tiktokx-dmt-logom:tos-maliva-p-0000/faedd15a6d494f6a96015164282ca99e.image?dr=14573&x-expires=1791302400&x-signature=GEAg3lVGsqFT164F2aNTRdwIYPA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+      "keyword": "premature ejaculation",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "Barbara Montgomery",
@@ -510,13 +551,85 @@
   ],
   "trends": [
     {
+      "keyword": "weight loss",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 38,
+      "score_maximo": 100,
+      "score_minimo": 30,
+      "crescimento_pct": -19.1
+    },
+    {
+      "keyword": "ozempic",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 21,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -16.0
+    },
+    {
+      "keyword": "mounjaro",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 38,
+      "score_maximo": 100,
+      "score_minimo": 32,
+      "crescimento_pct": -11.6
+    },
+    {
       "keyword": "belly fat",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 29,
+      "score_atual": 34,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 7.4
+      "crescimento_pct": -10.5
+    },
+    {
+      "keyword": "GLP-1",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 15,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -25.0
+    },
+    {
+      "keyword": "gelatin trick",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "ice hack weight loss",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "lose weight fast",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 10,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": 0.0
+    },
+    {
+      "keyword": "burn fat",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 17,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -15.0
     }
   ],
   "analise": {
@@ -524,6 +637,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
