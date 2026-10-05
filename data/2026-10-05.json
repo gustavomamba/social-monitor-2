@@ -1,5 +1,5 @@
 {
-  "data_execucao": "05/10/2026 02:48",
+  "data_execucao": "05/10/2026 03:07",
   "youtube": [
     {
       "titulo": "സൗഭാഗ്യയുടെ ഇൻജക്ഷൻ്റെ ദൂഷ്യ വശം Weight loss injection soubhagya #soubhagya#sowbhagyavenkitesh",
@@ -15,7 +15,35 @@
       "analise": ""
     }
   ],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "Things I wish I knew from the beginning 🫶🏼 #bigsisteradvice #lifechanging #cravings #thetruth ",
+      "canal": "emmazfitness",
+      "views": 2300000,
+      "likes": 408400,
+      "comentarios": 734,
+      "data": "2026-08-29",
+      "dias_desde_publicacao": 37,
+      "url": "https://www.tiktok.com/@emmazfitness/video/7679505304106585366",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ownVCf3FBCi1i6RC3TiFYHIWSAyIA0zwzrIjkA~tplv-tiktokx-origin.image?dr=10395&x-expires=1791349200&x-signature=P5XMLIAyoh3%2BppYsJ%2BAjCN1ZRjA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "keyword": "weightloss",
+      "analise": ""
+    },
+    {
+      "titulo": "",
+      "canal": "nawaraj093",
+      "views": 4200000,
+      "likes": 239300,
+      "comentarios": 6443,
+      "data": "2026-08-16",
+      "dias_desde_publicacao": 50,
+      "url": "https://www.tiktok.com/@nawaraj093/video/7674824652161846548",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/o4VCaOiQZIB3pzBAlLJwfPi91CIiI7Kg07GTdA~tplv-tiktokx-origin.image?dr=10395&x-expires=1791349200&x-signature=IKn0NFhsihfs9JcbTjdNu6rc6VI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "keyword": "male performance",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "Renee Donnelly",
@@ -482,85 +510,13 @@
   ],
   "trends": [
     {
-      "keyword": "weight loss",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 38,
-      "score_maximo": 100,
-      "score_minimo": 30,
-      "crescimento_pct": -19.1
-    },
-    {
       "keyword": "ozempic",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 21,
+      "score_atual": 39,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": -16.0
-    },
-    {
-      "keyword": "mounjaro",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 38,
-      "score_maximo": 100,
-      "score_minimo": 32,
-      "crescimento_pct": -11.6
-    },
-    {
-      "keyword": "belly fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 34,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -10.5
-    },
-    {
-      "keyword": "GLP-1",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 15,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -25.0
-    },
-    {
-      "keyword": "gelatin trick",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "ice hack weight loss",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "lose weight fast",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 10,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": 0.0
-    },
-    {
-      "keyword": "burn fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 17,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -15.0
+      "crescimento_pct": 2.6
     }
   ],
   "analise": {
@@ -568,6 +524,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
