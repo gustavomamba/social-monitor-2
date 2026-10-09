@@ -1,5 +1,5 @@
 {
-  "data_execucao": "09/10/2026 11:47",
+  "data_execucao": "09/10/2026 12:09",
   "youtube": [
     {
       "titulo": "Celebrities Who Lost TOO Much Weight",
@@ -41,7 +41,34 @@
       "analise": ""
     }
   ],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "Clean Your Gut With This 4-Ingredient Natural Recipe!\n\n#guthealth #detox #bloatingrelief #naturalremedies #herbaltea",
+      "canal": "shantao_healing",
+      "views": 508800,
+      "likes": 26700,
+      "comentarios": 2653,
+      "data": "2026-09-25",
+      "dias_desde_publicacao": 14,
+      "url": "https://www.tiktok.com/@shantao_healing/video/7689623187990072584",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oYDA4IrzPCgAAAiBi64E43EcYlAaBlHT4CCpA~tplv-tiktokx-origin.image?dr=9636&x-expires=1791727200&x-signature=zBe7nTQy3%2BkE%2BgIqdviW6kYcPlo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "natural recipe",
+      "analise": ""
+    },
+    {
+      "titulo": "pink jello recipe for weight loss",
+      "canal": "feelbetterroutine",
+      "views": 195200,
+      "likes": 2750,
+      "comentarios": 60,
+      "data": "2026-02-28",
+      "dias_desde_publicacao": 223,
+      "url": "https://www.tiktok.com/@feelbetterroutine/video/7611772029905259807",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o4naiq00AkzIAIvm0oICJ3iMCRiiqTfcAyCjBx~tplv-tiktokx-origin.image?dr=9636&x-expires=1791730800&x-signature=hB2BkmZFKwIcYMkiLpwCOPd6BW0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "pink gelatin recipe",
+      "analise": ""
+    }
+  ],
   "facebook": [
     {
       "page": "Atlanta Restaurant Scene with The Atlanta Journal-Constitution",
@@ -858,13 +885,85 @@
   ],
   "trends": [
     {
+      "keyword": "weight loss",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 37,
+      "score_maximo": 100,
+      "score_minimo": 34,
+      "crescimento_pct": -9.8
+    },
+    {
+      "keyword": "ozempic",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 29,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -6.5
+    },
+    {
+      "keyword": "mounjaro",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 36,
+      "score_maximo": 100,
+      "score_minimo": 36,
+      "crescimento_pct": -16.3
+    },
+    {
       "keyword": "belly fat",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 40,
+      "score_atual": 24,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 33.3
+      "crescimento_pct": -25.0
+    },
+    {
+      "keyword": "natural mounjaro",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "salt trick weight loss",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "ice hack weight loss",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "lose weight fast",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "burn fat",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 16,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -38.5
     }
   ],
   "analise": {
@@ -872,6 +971,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
