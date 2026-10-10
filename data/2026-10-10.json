@@ -1,7 +1,35 @@
 {
-  "data_execucao": "10/10/2026 11:55",
+  "data_execucao": "10/10/2026 12:09",
   "youtube": [],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "If you want to burn more calories without running, save this 30 minute incline treadmill workout.\n\nI love incline walking for fat loss because it increases the intensity and calorie burn without needi",
+      "canal": "haileymzimmerman",
+      "views": 153200,
+      "likes": 8704,
+      "comentarios": 68,
+      "data": "2026-10-03",
+      "dias_desde_publicacao": 7,
+      "url": "https://www.tiktok.com/@haileymzimmerman/video/7692442326198652190",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oIA8EinC0sA0BCBRLlyaBoEAABHEDn3wAIiP5~tplv-tiktokx-origin.image?dr=9636&x-expires=1791817200&x-signature=%2Bgv%2F2ySXcV4IIYhfz8WmzsZlN3A%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "burn fat",
+      "analise": ""
+    },
+    {
+      "titulo": "Save Bund, kasih kejutan buat suami 😍Senam Kegel atau disebut juga senam pelatihan otot panggul bawah bermanfaat untuk memperbaiki kondisi yang dapat menurunkan fungsi dan kekuatan otot panggul bawah.",
+      "canal": "nuha.irlan",
+      "views": 280000,
+      "likes": 7517,
+      "comentarios": 112,
+      "data": "2022-08-09",
+      "dias_desde_publicacao": 1523,
+      "url": "https://www.tiktok.com/@nuha.irlan/video/7129792869895916826",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-p-0037-aiso/ab85d5df028e4cc8bc5f386373d94d65~tplv-tiktokx-origin.image?dr=9636&x-expires=1791817200&x-signature=DCjwwS28pkC6R8KE%2B4jT4ZnajAk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "kegel",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "Safe kitchen guide",
@@ -678,85 +706,13 @@
   ],
   "trends": [
     {
-      "keyword": "weight loss",
+      "keyword": "GLP-1",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 37,
-      "score_maximo": 100,
-      "score_minimo": 34,
-      "crescimento_pct": -9.8
-    },
-    {
-      "keyword": "ozempic",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 29,
+      "score_atual": 28,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": -6.5
-    },
-    {
-      "keyword": "mounjaro",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 36,
-      "score_maximo": 100,
-      "score_minimo": 36,
-      "crescimento_pct": -16.3
-    },
-    {
-      "keyword": "belly fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 24,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -25.0
-    },
-    {
-      "keyword": "natural mounjaro",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "salt trick weight loss",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "ice hack weight loss",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "lose weight fast",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "burn fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 16,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -38.5
+      "crescimento_pct": 75.0
     }
   ],
   "analise": {
@@ -764,6 +720,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
