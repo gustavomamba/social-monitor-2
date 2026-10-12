@@ -1,5 +1,5 @@
 {
-  "data_execucao": "12/10/2026 02:54",
+  "data_execucao": "12/10/2026 03:16",
   "youtube": [
     {
       "titulo": "Esposa de Lito Sousa desabafa sobre aparência: 'Não é Mounjaro, é estresse'",
@@ -15,7 +15,48 @@
       "analise": ""
     }
   ],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "100 Pounds Later, He Regretted It",
+      "canal": "toonshortofficial",
+      "views": 307800,
+      "likes": 8885,
+      "comentarios": 77,
+      "data": "2026-10-11",
+      "dias_desde_publicacao": 1,
+      "url": "https://www.tiktok.com/@toonshortofficial/video/7695429434408471839",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0051-tx2/oA1Zn6UpIudSAgcBECoLjAA4AmiAUqf2Qw2BIi~tplv-tiktokx-origin.image?dr=9636&x-expires=1791957600&x-signature=UbWtBAOjQHTySzRsO33kPy00vvU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "drop pounds",
+      "analise": ""
+    },
+    {
+      "titulo": "#chubby #fyp #foryou #bigbelly #FoodTok ",
+      "canal": "onlysofiasquishy",
+      "views": 266400,
+      "likes": 5065,
+      "comentarios": 121,
+      "data": "2026-02-09",
+      "dias_desde_publicacao": 245,
+      "url": "https://www.tiktok.com/@onlysofiasquishy/video/7604938315992681750",
+      "thumbnail": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/okiBwnNfGKRpFFAyIsxERKLDgEdEk9Cz3SiFQe~tplv-tiktokx-origin.image?dr=14575&x-expires=1791957600&x-signature=Q%2Bj8MJB60bEpvijrHF%2BYzRq9Oq4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+      "keyword": "belly fat",
+      "analise": ""
+    },
+    {
+      "titulo": "Premature ejaculation \n#draniket #healthtips #awareness #tiktokhealthtips #doktok ",
+      "canal": "medventurebydr.aniket",
+      "views": 127500,
+      "likes": 3210,
+      "comentarios": 17,
+      "data": "2026-09-30",
+      "dias_desde_publicacao": 12,
+      "url": "https://www.tiktok.com/@medventurebydr.aniket/video/7691321301780270368",
+      "thumbnail": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/osf4IsFsATY7J1z6NADAQfenGPqAHKFRAhEHfS~tplv-tiktokx-dmt-logom:tos-useast2a-i-0068-euttp/owAGxeEFBACZm6YfRdf5H3AIDfAuFNA2UKAqhQ.image?dr=14573&x-expires=1791957600&x-signature=DK5I3Di555qKGT0S1jNDUoMcbVY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+      "keyword": "premature ejaculation",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "Creator’s Collective Market",
@@ -720,85 +761,13 @@
   ],
   "trends": [
     {
-      "keyword": "weight loss",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 41,
-      "score_maximo": 100,
-      "score_minimo": 34,
-      "crescimento_pct": -26.8
-    },
-    {
-      "keyword": "ozempic",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 29,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -17.1
-    },
-    {
-      "keyword": "mounjaro",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 32,
-      "score_maximo": 100,
-      "score_minimo": 30,
-      "crescimento_pct": -30.4
-    },
-    {
-      "keyword": "belly fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 14,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -56.2
-    },
-    {
-      "keyword": "GLP-1",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "natural mounjaro",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "pink salt trick",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "lose weight fast",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
       "keyword": "burn fat",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 0,
+      "score_atual": 67,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": -100.0
+      "crescimento_pct": 6600.0
     }
   ],
   "analise": {
@@ -806,6 +775,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
