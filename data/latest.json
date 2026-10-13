@@ -1,7 +1,50 @@
 {
-  "data_execucao": "13/10/2026 02:54",
+  "data_execucao": "13/10/2026 03:14",
   "youtube": [],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "How to spot low testosterone\n\n#testosterone #lowtestosterone ",
+      "canal": "soupawakened",
+      "views": 908500,
+      "likes": 40100,
+      "comentarios": 193,
+      "data": "2025-11-17",
+      "dias_desde_publicacao": 330,
+      "url": "https://www.tiktok.com/@soupawakened/video/7573769571451161887",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ocAKAAtGIcEBAB3zAPlavEAYHRbNbii4ARAin~tplv-tiktokx-origin.image?dr=9636&x-expires=1792044000&x-signature=peNVbn5O66LovSaTOYIIVgrdbhE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "low testosterone",
+      "analise": "",
+      "nicho": "male_health"
+    },
+    {
+      "titulo": "",
+      "canal": "chrisbrowneditsfan",
+      "views": 495700,
+      "likes": 3241,
+      "comentarios": 18,
+      "data": "2026-09-27",
+      "dias_desde_publicacao": 16,
+      "url": "https://www.tiktok.com/@chrisbrowneditsfan/video/7690394336160140552",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oQKAOI4r511AC9VxTliqAiXCIAQBBwJqBIfGcH~tplv-tiktokx-origin.image?dr=10395&x-expires=1792044000&x-signature=bzYwHGWj0RpYFxHO%2FprC4Zsq6uQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "keyword": "male performance",
+      "analise": "",
+      "nicho": "male_health"
+    },
+    {
+      "titulo": "Você está rápido demais ? ⌛️\n\nDr Guilherme Braga\n\n#dapoxetina #paroxetine #andrologia ",
+      "canal": "dr.guilhermebraga",
+      "views": 447000,
+      "likes": 7616,
+      "comentarios": 219,
+      "data": "2024-04-13",
+      "dias_desde_publicacao": 913,
+      "url": "https://www.tiktok.com/@dr.guilhermebraga/video/7357358352248081670",
+      "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-i-e1os8tt47a-us/470ee91ee66445b79ab8d65ba4ec6855~tplv-tiktokx-dmt-logom:tos-useast2a-v-0068/owAUAiAqNHh8lEnCBWIEZaiABqAa6ROiicPQK.image?dr=9634&x-expires=1792044000&x-signature=n4u063Pk9mLMpocJ5OsBmkgH2Go%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "ejaculação precoce",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "",
@@ -370,13 +413,22 @@
   ],
   "trends": [
     {
+      "keyword": "GLP-1",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 34,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": 3300.0
+    },
+    {
       "keyword": "burn fat",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 67,
+      "score_atual": 93,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 6600.0
+      "crescimento_pct": 9200.0
     }
   ],
   "analise": {
@@ -384,6 +436,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
