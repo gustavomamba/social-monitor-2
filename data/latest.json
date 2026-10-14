@@ -1,5 +1,5 @@
 {
-  "data_execucao": "14/10/2026 02:49",
+  "data_execucao": "14/10/2026 03:01",
   "youtube": [],
   "tiktok": [],
   "facebook": [
@@ -317,19 +317,10 @@
       "keyword": "GLP-1",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 34,
+      "score_atual": 52,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 3300.0
-    },
-    {
-      "keyword": "burn fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 93,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": 9200.0
+      "crescimento_pct": 92.6
     }
   ],
   "analise": {
@@ -337,6 +328,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
