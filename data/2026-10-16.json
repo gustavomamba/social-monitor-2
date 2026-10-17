@@ -1,0 +1,23 @@
+{
+  "data_execucao": "16/10/2026 09:30",
+  "youtube": [],
+  "tiktok": [],
+  "facebook": [],
+  "trends": [
+    {
+      "keyword": "ozempic",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 40,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": 14.3
+    }
+  ],
+  "analise": {
+    "tendencias": "",
+    "mecanismos_em_alta": "",
+    "avatares_em_alta": "",
+    "recomendacoes": ""
+  }
+}
