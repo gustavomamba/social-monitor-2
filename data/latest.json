@@ -1,5 +1,5 @@
 {
-  "data_execucao": "20/10/2026 11:01",
+  "data_execucao": "20/10/2026 11:27",
   "youtube": [
     {
       "titulo": "How Ashish Chanchlani Lost 40 KG Without Quitting Chips! 😱🔥 #Shorts #food #weightloss#creamychips",
@@ -15,7 +15,48 @@
       "analise": ""
     }
   ],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "Pink salt trick recipe. \nMeasurements don't have to be exact. Best on an empty stomach. hot, cold or room temperature. Enjoy!\n#pinksalttrick #pinksalt #pinkhimalayansalt #Himalayansalt ",
+      "canal": "lajeepetablanca",
+      "views": 245600,
+      "likes": 2990,
+      "comentarios": 169,
+      "data": "2025-09-15",
+      "dias_desde_publicacao": 400,
+      "url": "https://www.tiktok.com/@lajeepetablanca/video/7550465935732165918",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oUDAWiM3IEEuZP66FAaiBIBlMhiFRAMEyApAk~tplv-tiktokx-origin.image?dr=9636&x-expires=1792677600&x-signature=ZJd3xtugJ%2Fbhf0ik8yJQ%2BdNf6MY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+      "keyword": "pink salt trick",
+      "analise": ""
+    },
+    {
+      "titulo": "",
+      "canal": "homemaderecipestoday",
+      "views": 193300,
+      "likes": 2670,
+      "comentarios": 288,
+      "data": "2025-06-30",
+      "dias_desde_publicacao": 477,
+      "url": "https://www.tiktok.com/@homemaderecipestoday/video/7521835530531720479",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/ow5IVI7XAA28EVv5RFf0uoDB3hYZfEEkZKFKAi~tplv-tiktokx-origin.image?dr=9636&x-expires=1792677600&x-signature=swgjmSe6DvAW4GUlIJboLxJtO04%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "pink salt recipe",
+      "analise": ""
+    },
+    {
+      "titulo": "Cansaço, queda da libido, perda de força e disposição nem sempre significam apenas “testosterona baixa”.\n\nAntes de pensar em suplemento ou reposição hormonal, é preciso descobrir o que está reduzindo ",
+      "canal": "dra.robertamiele",
+      "views": 122900,
+      "likes": 3009,
+      "comentarios": 82,
+      "data": "2026-07-16",
+      "dias_desde_publicacao": 96,
+      "url": "https://www.tiktok.com/@dra.robertamiele/video/7663167914689809684",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oAdPVV1tnBKlZAKYiIYDp1aCBEIdmAFaCiRAk~tplv-tiktokx-origin.image?dr=10395&x-expires=1792677600&x-signature=N9FzNmfEkJXv63AgxoL1elJd3Xw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=no1a",
+      "keyword": "desempenho masculino",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "",
@@ -258,13 +299,103 @@
   ],
   "trends": [
     {
+      "keyword": "weight loss",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 35,
+      "score_maximo": 100,
+      "score_minimo": 35,
+      "crescimento_pct": -14.6
+    },
+    {
+      "keyword": "ozempic",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 14,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -22.2
+    },
+    {
+      "keyword": "mounjaro",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 33,
+      "score_maximo": 100,
+      "score_minimo": 33,
+      "crescimento_pct": -13.2
+    },
+    {
       "keyword": "belly fat",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 57,
+      "score_atual": 0,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": 35.7
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "GLP-1",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "natural ozempic",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "natural mounjaro",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "salt trick weight loss",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "gelatin trick",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "lose weight fast",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
+    },
+    {
+      "keyword": "burn fat",
+      "geo": "GB",
+      "timeframe": "now 7-d",
+      "score_atual": 0,
+      "score_maximo": 100,
+      "score_minimo": 0,
+      "crescimento_pct": -100.0
     }
   ],
   "analise": {
@@ -272,6 +403,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
