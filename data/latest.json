@@ -1,7 +1,35 @@
 {
-  "data_execucao": "21/10/2026 09:28",
+  "data_execucao": "21/10/2026 09:56",
   "youtube": [],
-  "tiktok": [],
+  "tiktok": [
+    {
+      "titulo": "I MISSED THIS!!!! 😭🍮Pink gelatin with raisins/pasas or pineapples\n\nWhen was the last time you had this?\n\nINGREDIENTS | QUANTITY\n-Evaporated milk- 2 cans (370 ml each)\n-Condensed milk- 1 can (300 ml)\n-",
+      "canal": "abigailfmarquez",
+      "views": 731200,
+      "likes": 43000,
+      "comentarios": 426,
+      "data": "2026-02-24",
+      "dias_desde_publicacao": 239,
+      "url": "https://www.tiktok.com/@abigailfmarquez/video/7610406610070097172",
+      "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oQvIvEBog0AAAY2BCYAIminYIId9tadEWYZAi~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/ogIE4fZd0gARDjAIASfEAACcmBnFEtFspjikAC.image?dr=9634&x-expires=1792756800&x-signature=A1wLSZT%2B1MBJAfcgiX%2FzZvLYiL0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+      "keyword": "pink gelatin recipe",
+      "analise": ""
+    },
+    {
+      "titulo": "CLASS IN SESSION 👩🏼‍🏫 \n\nToday’s workout is rated advanced! Spoiler alert 🚨 There’s a long hold coming.\n\nFollow along for daily reminders to squeeze!\n\nAs always, if you experience any pelvic floor issu",
+      "canal": "womenshealthwithheidi",
+      "views": 6000000,
+      "likes": 369200,
+      "comentarios": 7203,
+      "data": "2026-07-22",
+      "dias_desde_publicacao": 91,
+      "url": "https://www.tiktok.com/@womenshealthwithheidi/video/7665260790215134472",
+      "thumbnail": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oADBohDkFA9ZYeAtARUQAC5EW8VIQcAfgqHjtE~tplv-tiktokx-origin.image?dr=14575&x-expires=1792756800&x-signature=3v7zoSWpGw7BvAv4m2aKkOS2%2F1U%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+      "keyword": "kegel",
+      "analise": "",
+      "nicho": "male_health"
+    }
+  ],
   "facebook": [
     {
       "page": "Nail Exodus",
@@ -555,76 +583,22 @@
       "keyword": "weight loss",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 35,
+      "score_atual": 34,
       "score_maximo": 100,
-      "score_minimo": 35,
-      "crescimento_pct": -14.6
+      "score_minimo": 33,
+      "crescimento_pct": -20.9
     },
     {
       "keyword": "ozempic",
       "geo": "GB",
       "timeframe": "now 7-d",
-      "score_atual": 14,
+      "score_atual": 12,
       "score_maximo": 100,
       "score_minimo": 0,
-      "crescimento_pct": -22.2
+      "crescimento_pct": -40.0
     },
     {
-      "keyword": "mounjaro",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 33,
-      "score_maximo": 100,
-      "score_minimo": 33,
-      "crescimento_pct": -13.2
-    },
-    {
-      "keyword": "belly fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "GLP-1",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "natural ozempic",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "natural mounjaro",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "salt trick weight loss",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "gelatin trick",
+      "keyword": "pink salt trick",
       "geo": "GB",
       "timeframe": "now 7-d",
       "score_atual": 0,
@@ -640,15 +614,6 @@
       "score_maximo": 100,
       "score_minimo": 0,
       "crescimento_pct": -100.0
-    },
-    {
-      "keyword": "burn fat",
-      "geo": "GB",
-      "timeframe": "now 7-d",
-      "score_atual": 0,
-      "score_maximo": 100,
-      "score_minimo": 0,
-      "crescimento_pct": -100.0
     }
   ],
   "analise": {
@@ -656,6 +621,5 @@
     "mecanismos_em_alta": "",
     "avatares_em_alta": "",
     "recomendacoes": ""
-  },
-  "facebook_cross_analysis": {}
+  }
 }
